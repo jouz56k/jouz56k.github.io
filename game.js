@@ -418,7 +418,7 @@ function reset(){
 
 // DRAW
 function draw(){
-    ctx.fillStyle = "#ffff00";
+    ctx.fillStyle = "#7CFFF6";
     ctx.fillRect(0, 0, canvas.width, canvas.height);
     title.draw();
     tap.draw();
